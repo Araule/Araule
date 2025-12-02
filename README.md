@@ -1,6 +1,6 @@
 ## Hi!
 
-I am Laura Darenne, a doctoral student working in the [ER-TIM](https://ertim.inalco.fr/) research team (transl. "Texts, Computer Science, Multilingualism Research Team") at [Inalco](https://www.inalco.fr/) (transl. "National Institute for Oriental Languages and Civilizations").
+I am Laura Darenne, a doctoral student working in the [ER-TIM](https://ertim.inalco.fr/) research team ("Texts, Computer Science, Multilingualism Research Team") at [Inalco](https://www.inalco.fr/) ("National Institute for Oriental Languages and Civilizations").
 
 My thesis focuses on the linguistic modeling and the typology of narratives on social media, under the supervision of Mathieu Valette, Professor of Linguistics (ER-TIM, Inalco). The aim is to linguistically characterize and model these narratives to facilitate their identification, and to build a pipeline for automating the detection, analysis, and visualization process.
 
